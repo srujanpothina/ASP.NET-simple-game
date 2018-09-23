@@ -11,4 +11,4 @@ Once you crash on the ground you lose.
 <li> Enjoy playing the game ! :) </li>
 </ul>
 
-<img src = "Simple Game/Images/game over.png"/>
+<img src = "Simple%20Game/Images/game%20over.png"/>
