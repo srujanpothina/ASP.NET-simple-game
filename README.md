@@ -10,3 +10,5 @@ Once you crash on the ground you lose.
 <li> Run the program using Start on the top which is ususally used for the debug process</li>
 <li> Enjoy playing the game ! :) </li>
 </ul>
+
+<img src = "Simple Game/Images/game over.png"/>
